@@ -1,0 +1,296 @@
+{
+    "conference": {
+        "name": "PICC 2012",
+        "start": "2012/5/11",
+        "end": "2012/5/12",
+        "numAttendees": "0"
+    },
+    "presentations": [
+        {
+            "speaker": "Steven Murawski",
+            "topic": "PowerShell Fundamentals",
+            "type": "class"
+        },
+        {
+            "speaker": "David N. Blank-Edelman",
+            "topic": "Implementing WordPress for Sysadmins",
+            "type": "class"
+        },
+        {
+            "speaker": "Thomas A. Limoncelli",
+            "topic": "Introduction to Time Management for System Administrators",
+            "type": "class"
+        },
+        {
+            "speaker": "Mark Burgess",
+            "topic": "A Sysadmin’s Guide to Navigating the Business World",
+            "type": "class"
+        },
+        {
+            "speaker": "Carolyn Rowland",
+            "topic": "A Sysadmin’s Guide to Navigating the Business World",
+            "type": "class"
+        },
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Blitzkrieg Branding",
+            "type": "class"
+        },
+        {
+            "speaker": "Thomas Uphill",
+            "topic": "Using Puppet to Pull Strings: A Gentle Introduction to Puppet",
+            "type": "class"
+        },
+        {
+            "speaker": "Benjamin Rose",
+            "topic": "Using Puppet to Pull Strings: A Gentle Introduction to Puppet",
+            "type": "class"
+        },
+        {
+            "speaker": "Steven Murawski",
+            "topic": "PowerShell Tips and Tricks",
+            "type": "class"
+        },
+        {
+            "speaker": "William LeFebvre",
+            "topic": "Using Amazon Web Services",
+            "type": "class"
+        },
+        {
+            "speaker": "Thomas A. Limoncelli",
+            "topic": "The Limoncelli Test: Evaluating and Improving Sysadmin Operations",
+            "type": "class"
+        },
+        {
+            "speaker": "Aleksey Tsalolikhin",
+            "topic": "Automating System Administration with CFEngine 3",
+            "type": "class"
+        },
+        {
+            "speaker": "N. Nadine Miller",
+            "topic": "Technical Resume Writing",
+            "type": "class"
+        },
+        {
+            "speaker": "David Nolan",
+            "topic": "TCP/IP Fundamentals in the Real World",
+            "type": "class"
+        },
+        {
+            "speaker": "Shumon Huque",
+            "topic": "Using and Migrating to IPv6",
+            "type": "class"
+        },
+        {
+            "speaker": "Peter Baer Galvin",
+            "topic": "Practical Cloud Computing",
+            "type": "class"
+        },
+        {
+            "speaker": "Jacob Farmer",
+            "topic": "Backups, Archiving, and Life Cycle Management: Riding the Wave of Data Proliferation",
+            "type": "class"
+        },
+        {
+            "speaker": "Shumon Huque",
+            "topic": "DNS and DNSSEC",
+            "type": "class"
+        },
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Basic Security Principles for System Administrators",
+            "type": "class"
+        },
+        {
+            "speaker": "Adam Moskowitz",
+            "topic": "Workplace Presentations 101 for IT Professionals",
+            "type": "class"
+        },
+        {
+            "speaker": "Thomas Limomcelli",
+            "topic": "Ganeti: Virtual Clusters made easy",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Willard Dennis",
+            "topic": "Emulating Routers with Dynamips, Dynagen, and GNS3",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Raymond Blum",
+            "topic": "Google’s Backup System: Solidifying the Cloud",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Sheeri K. Carbral",
+            "topic": "Getting started with a Podcast",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Mike Rembetsy",
+            "topic": "DevOps Management: Herding Cats at Etsy",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Sheeri K. Carbral",
+            "topic": "Securing MySQL: More than just ACLs",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Mark Burgess",
+            "topic": "CFEngine and why the future of configuration management is knowledge",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Todd MacDonald",
+            "topic": "Free Open Ghost (FOG) What it is/isn’t ",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Daniel O’Boyle",
+            "topic": "Free Open Ghost (FOG) What it is/isn’t ",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Mike Stoppay",
+            "topic": "Windows Fleet Deployment with MDT2010 – Experiences at Montclair State",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Joseph Youn",
+            "topic": "Windows Fleet Deployment with MDT2010 – Experiences at Montclair State",
+            "type": "presentation"
+        },
+        {
+            "speaker": "George Beech",
+            "topic": "StackExchange.com: Scaling the Most popular Q&A sites using the Microsoft Stack! ",
+            "type": "presentation"
+        },
+        {
+            "speaker": "R. Marshall Webber",
+            "topic": "Mass Provisioning for a Heterogeneous Co-located Environment",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Prashanth Sundaram",
+            "topic": "Configuration Manager for Windows and more",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Thomas Uphill",
+            "topic": "Building consistent and maintainable RPMs with the mock build system",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Jake Mohnkern",
+            "topic": "Migrating from Exchange 2003 to Google Apps Premiere",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Scott Seltzer",
+            "topic": "Migrating from MS Small Business Server 2003 to 2011",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Mandi Wells",
+            "topic": "Intro to Chef ",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Joe Netzel",
+            "topic": "Successfully Migrating From CFEngine 2 to CFEngine 3 ",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Noble Thomas",
+            "topic": "Configuration Management From The Trenches",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Diego Zamboni",
+            "topic": "CFengine Config Mgmt for Security",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Kartik Subbarao",
+            "topic": "Collabograte: Integrating the Software and Experience of Open Source Collaboration",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Pete Fritchman",
+            "topic": "Deep Application Monitoring using Statsd and more",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Balmes Pavlov",
+            "topic": "Creating Images for Macs using InstaDMG",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Bill Cheswick",
+            "topic": "Rethinking Passwords",
+            "type": "keynote"
+        },
+        {
+            "speaker": "Rebecca Mercuri",
+            "topic": "The Black Swan and Information Security",
+            "type": "keynote"
+        }
+    ],
+    "sponsors": [
+        {
+            "sponsor": "Cambridge Computer"
+        },
+        {
+            "sponsor": "AdminArsenal"
+        },
+        {
+            "sponsor": "Mozilla"
+        },
+        {
+            "sponsor": "Gotham Technology Group"
+        },
+        {
+            "sponsor": "BlueCoat"
+        },
+        {
+            "sponsor": "Dell KACE"
+        },
+        {
+            "sponsor": "The Datacenter Journal"
+        },
+        {
+            "sponsor": "ServerFault"
+        },
+        {
+            "sponsor": "TechnicallyPhilly"
+        },
+        {
+            "sponsor": "LUGIP (Linux Users Group in Princeton)"
+        },
+        {
+            "sponsor": "BBLIA (BackBay LISA)"
+        },
+        {
+            "sponsor": "NYLUG (New York Linux Users Group)"
+        },
+        {
+            "sponsor": "LUNICS (Amateur Computer Group of New Jersey Linux/UNIX SIG)"
+        },
+        {
+            "sponsor": "SNAPGH (System & Network Administrators of Pittsburg)"
+        },
+        {
+            "sponsor": "CrabbyAdmins (LOPSA Baltimore/DC Chapter)"
+        },
+        {
+            "sponsor": "PLUG (Philly Linux Users Group)"
+        }
+    ],
+    "venue": {
+        "name": "Hyatt Regency",
+        "city": "New Brunswick",
+        "state": "NJ",
+        "zip": "08901"
+    }
+}

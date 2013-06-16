@@ -1,0 +1,178 @@
+{
+    "conference": {
+        "name": "PICC 2011",
+        "start": "2011/04/29",
+        "end": "2011/04/30",
+        "numAttendees": "0"
+    },
+    "presentations": [
+        {
+            "speaker": "Steven Murawski",
+            "topic": "PowerShell Fundamentals",
+            "type": "class"
+        },
+        {
+            "speaker": "Brian Jones",
+            "topic": "Grokking Python",
+            "type": "class"
+        },
+        {
+            "speaker": "David N. Blank-Edelman",
+            "topic": "Over the Edge System Administration,Volume 1",
+            "type": "class"
+        },
+        {
+            "speaker": "Chris St’ Pierre",
+            "topic": "Internal documentation for SysAdmins",
+            "type": "class"
+        },
+        {
+            "speaker": "Troy Mckee",
+            "topic": "Windows Enterprise Security",
+            "type": "class"
+        },
+        {
+            "speaker": "Thomas A. Limoncelli",
+            "topic": "Advanced Time Management: Team Efficiency",
+            "type": "class"
+        },
+        {
+            "speaker": "Matt Disney",
+            "topic": "Security Best Practices and Tools for Linux",
+            "type": "class"
+        },
+        {
+            "speaker": "Adam Moskowitz",
+            "topic": "Workplace Presentations 101 for IT Professionals",
+            "type": "class"
+        },
+        {
+            "speaker": "Jacob Farmer",
+            "topic": "Backups, Archiving, and Life Cycle Management: Riding the Wave of Data Proliferation",
+            "type": "class"
+        },
+        {
+            "speaker": "Shumon Huque",
+            "topic": "Using and Migrating to IPv6",
+            "type": "class"
+        },
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Blitzkrieg Branding",
+            "type": "class"
+        },
+        {
+            "speaker": "John Sellens",
+            "topic": "Non-Obvious Nagios",
+            "type": "class"
+        },
+        {
+            "speaker": "Sheeri K Cabral",
+            "topic": "Effectively Monitoring MySQL",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Jeanne Schock",
+            "topic": "Change Management and the IT Infrastructure Library (ITIL)",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Adam Moskowitz",
+            "topic": "The Path to Senior SysAdmin",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Jon Meek",
+            "topic": "Using http Response Time Histories to Detect Problems",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Joe Kern",
+            "topic": "Leadership and Troubleshooting: From the Trenches",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Jason Dixon",
+            "topic": "Trending with Purpose",
+            "type": "presentation"
+        },
+        {
+            "speaker": "George Beech",
+            "topic": "Stack Overflow Infrastructure",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Kyle Brandt",
+            "topic": "Stack Overflow Infrastructure",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Tom Limoncelli",
+            "topic": "Thoughts on a University-level Major in System Administration",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Nick Silkey",
+            "topic": "Puppet on the IT infrastructure at AI",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Eric Shamow",
+            "topic": "Continuous Integration via Hudson",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Sumana Harihareswara",
+            "topic": "The Only Intentionally Funny Talk You’ll Hear Today",
+            "type": "keynote"
+        },
+        {
+            "speaker": "Theo Schlossnagle",
+            "topic": "Hacking availability and performance into your organization.",
+            "type": "keynote"
+        },
+        {
+            "speaker": "Quinn Norton",
+            "topic": "Society in a World of Online Systems",
+            "type": "keynote"
+        }
+    ],
+    "sponsors": [
+        {
+            "sponsor": "Cambridge Computer"
+        },
+        {
+            "sponsor": "Google"
+        },
+        {
+            "sponsor": "USENIX"
+        },
+        {
+            "sponsor": "AdminArsenal"
+        },
+        {
+            "sponsor": "Gotham Technology Group"
+        },
+        {
+            "sponsor": "BlueCoat"
+        },
+        {
+            "sponsor": "EMC"
+        },
+        {
+            "sponsor": "Linux Pro Magazine"
+        },
+        {
+            "sponsor": "ADMIN Network & Security"
+        },
+        {
+            "sponsor": "ServerFault"
+        }
+    ],
+    "venue": {
+        "name": "Hyatt Regency",
+        "city": "New Brunswick",
+        "state": "NJ",
+        "zip": "08901"
+    }
+}

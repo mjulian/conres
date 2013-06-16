@@ -1,0 +1,171 @@
+{
+    "conference": {
+        "name": "PICC 2010",
+        "start": "2010/05/07",
+        "end": "2010/05/08",
+        "numAttendees": "0"
+    },
+    "presentations": [
+        {
+            "speaker": "Thomas A. Limoncelli",
+            "topic": "Time Management for System Administrators: A New Approach",
+            "type": "class"
+        },
+        {
+            "speaker": "Brian Jones",
+            "topic": "Seeking Senior and Beyond: The Tech Skills That Get You Promoted",
+            "type": "class"
+        },
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Introduction to Virtualized Storage Management",
+            "type": "class"
+        },
+        {
+            "speaker": "David N. Blank-Edelman",
+            "topic": "Automating System Administration with Perl ",
+            "type": "class"
+        },
+        {
+            "speaker": "Thomas A. Limoncelli",
+            "topic": "Help! Everyone hates our IT department",
+            "type": "class"
+        },
+        {
+            "speaker": "Joseph Kern",
+            "topic": "Intro to Powershell: Automate like a Wizard",
+            "type": "class"
+        },
+        {
+            "speaker": "Owen DeLong",
+            "topic": "Essential IPv6 for Linux Administrators",
+            "type": "class"
+        },
+        {
+            "speaker": "Jacob Farmer",
+            "topic": "Next Generation Storage Networking: Beyond Conventional SAN and NAS",
+            "type": "class"
+        },
+        {
+            "speaker": "David Parter",
+            "topic": "IT Policies: Why IT Policies are needed and how to develop them",
+            "type": "class"
+        },
+        {
+            "speaker": "Colin Morgan",
+            "topic": "Pushing Boulders Uphill: NOAA Updates - High Performance Computing across the WAN",
+            "type": "paper"
+        },
+        {
+            "speaker": "Frank Indiviglio, Sr.",
+            "topic": "Pushing Boulders Uphill: NOAA Updates - High Performance Computing across the WAN",
+            "type": "paper"
+        },
+        {
+            "speaker": "Matt Simmons",
+            "topic": "Keeping Nagios Sane",
+            "type": "paper"
+        },
+        {
+            "speaker": "Pablo Mayrgundter",
+            "topic": "Technical Community Response for the Haitian Earthquake",
+            "type": "paper"
+        },
+        {
+            "speaker": "Nick Silkey",
+            "topic": "Drupal On-Demand",
+            "type": "paper"
+        },
+        {
+            "speaker": "Tom Limoncelli",
+            "topic": "An overview of Google's technologies: GFS, MapReduce, and many more",
+            "type": "paper"
+        },
+        {
+            "speaker": "Joe McDonagh",
+            "topic": "Using Hierarchical Protection Domains for Network Security",
+            "type": "paper"
+        },
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Mentoring: It's for everyone!",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Sheeri K. Cabral",
+            "topic": "How to stop hating MySQL: Fixing common MySQL myths and mistakes",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Adam Moskowitz",
+            "topic": "Budgeting for System Administrators",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Adam Moskowitz",
+            "topic": "Job-Hunting Skills for System Administrators",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Pamela Howell",
+            "topic": "Tech Women Rule! Creative Solutions for being a (or working with a) female technologist",
+            "type": "panel"
+        },
+        {
+            "speaker": "Tom Limoncelli",
+            "topic": "Smooth Operations: Stopping the spiral of Emergency System Administration",
+            "type": "keynote"
+        },
+        {
+            "speaker": "David N. Blank-Edelman",
+            "topic": "Through the Lens Geekly: How SysAdmins Are Portrayed in Pop Culture",
+            "type": "keynote"
+        },
+        {
+            "speaker": "Eben M. Haber",
+            "topic": "System Administrators in the Wild: What we’ve learned from watching you!",
+            "type": "keynote"
+        }
+    ],
+    "sponsors": [
+        {
+            "sponsor": "Brocade"
+        },
+        {
+            "sponsor": "USENIX"
+        },
+        {
+            "sponsor": "Atrion"
+        },
+        {
+            "sponsor": "Cambridge Computer"
+        },
+        {
+            "sponsor": "Symantec"
+        },
+        {
+            "sponsor": "NetApp"
+        },
+        {
+            "sponsor": "ServerFault"
+        },
+        {
+            "sponsor": "LUGIP (Linux Users Group in Princeton)"
+        },
+        {
+            "sponsor": "BBLISA (BackBay LISA)"
+        },
+        {
+            "sponsor": "NYLUG (New York Linux Users Group)"
+        },
+        {
+            "sponsor": "LUNICS (Amateur Computer Group of New Jersey Linux/UNIX SIG)"
+        }
+    ],
+    "venue": {
+        "name": "Hyatt Regency",
+        "city": "New Brunswick",
+        "state": "NJ",
+        "zip": "08901"
+    }
+}

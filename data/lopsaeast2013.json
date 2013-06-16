@@ -1,0 +1,233 @@
+{
+    "conference": {
+        "name": "LOPSA East 2013",
+        "start": "2013/05/03",
+        "end": "2013/05/04",
+        "numAttendees": "0"
+    },
+    "presentations": [
+        {
+            "speaker": "Steven Murawski",
+            "topic": "PowerShell Fundamentals",
+            "type": "class"
+        },
+        {
+            "speaker": "Thomas Uphill",
+            "topic": "A Gentle Introduction to Puppet",
+            "type": "class"
+        },
+        {
+            "speaker": "David N. Blank-Edelman",
+            "topic": "Build A SysAdmin Sandbox",
+            "type": "class"
+        },
+        {
+            "speaker": "Aleksey Tsalolikhin",
+            "topic": "CFEngine 3 Pressure Cooker Course: Zero to Hero in 3 hours",
+            "type": "class"
+        },
+        {
+            "speaker": "Nathen Harvey",
+            "topic": "Resolv the World with Chef: An Introduction to Chef for Sysadmins",
+            "type": "class"
+        },
+        {
+            "speaker": "Thomas A. Limoncelli",
+            "topic": "Evil Genius 101",
+            "type": "class"
+        },
+        {
+            "speaker": "Kyle Fulton",
+            "topic": "Automation in the Cloud with Puppet",
+            "type": "class"
+        },
+        {
+            "speaker": "Steven Murawski",
+            "topic": "Building Your PowerShell Toolkit",
+            "type": "class"
+        },
+        {
+            "speaker": "David N. Blank-Edelman",
+            "topic": "Implementing WordPress for SysAdmins",
+            "type": "class"
+        },
+        {
+            "speaker": "Nick Anderson",
+            "topic": "Provisioning and Configuring VMs Quickly using Vagrant and CFEngine 3",
+            "type": "class"
+        },
+        {
+            "speaker": "Allister Banks",
+            "topic": "Intro to Mac and iOS Lifecycle Management",
+            "type": "class"
+        },
+        {
+            "speaker": "Thomas A. Limoncelli",
+            "topic": "Advanced Time Management: Team Efficiency",
+            "type": "class"
+        },
+        {
+            "speaker": "Shumon Huque",
+            "topic": "Using and Migrating to IPv6",
+            "type": "class"
+        },
+        {
+            "speaker": "Peter Grace",
+            "topic": "The care and feeding of Windows Servers for UNIX/Linux Admins",
+            "type": "class"
+        },
+        {
+            "speaker": "Carolyn Rowland",
+            "topic": "A Sysadmin’s Guide to Navigating the Business World",
+            "type": "class"
+        },
+        {
+            "speaker": "Nicole Velasquez",
+            "topic": "A Sysadmin’s Guide to Navigating the Business World",
+            "type": "class"
+        },
+        {
+            "speaker": "Shumon Huque",
+            "topic": "DNSSEC (DNS Security Extensions)",
+            "type": "class"
+        },
+        {
+            "speaker": "Steven Murawski",
+            "topic": "Continuous Availability with Windows Server Failover Clusters",
+            "type": "class"
+        },
+        {
+            "speaker": "Matt Simmons",
+            "topic": "Intro to SSDs",
+            "type": "class"
+        },
+        {
+            "speaker": "Steven Murawski",
+            "topic": "Hyper-V 2012, Resilient, Flexible, and Mobile",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Judd Maltin",
+            "topic": "Bare Metal to Private Cloud Infrastructure",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Mike Julian",
+            "topic": "How To Sleep Better at Night (or: Building a More Effective Monitoring Environment)",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Mike Julian",
+            "topic": "Monitoring For the Public Good",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Nathen Harvey",
+            "topic": "The Addictive Nature of Automation",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Nathen Harvey",
+            "topic": "Things You Always Wanted to Know About Chef But Were Afraid to Ask",
+            "type": "presentation"
+        },
+        {
+            "speaker": "George Beech",
+            "topic": "When disaster strikes – Moving Stack Exchange across the country, and surviving 75 Broad",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Thomas Uphill",
+            "topic": "KVM",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Jacob Jernigan",
+            "topic": "What I’ve learned working in the Service Hosting Industry",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Ryan Frantz",
+            "topic": "Building a web load balancing solution using open source software",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Chandin Wilson",
+            "topic": "Implementing a Certificate-based authentication infrastructure without User Torture",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Jim Mlodgenski",
+            "topic": "Performance Tuning PostgreSQ",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Denish Patel",
+            "topic": "Deploying PostgreSQL on Amazon EC2: A Case Study",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Sam Kottler",
+            "topic": "Provisioning and systems management using Foreman",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Allister Banks",
+            "topic": "Principled Patch Management with Munki",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Matthew Barr",
+            "topic": "Configuration Management Workflows",
+            "type": "panel"
+        },
+        {
+            "speaker": "Anthony Caiafa",
+            "topic": "Configuration Management Workflows",
+            "type": "panel"
+        },
+        {
+            "speaker": "Mike Fiedler",
+            "topic": "Configuration Management Workflows",
+            "type": "panel"
+        },
+        {
+            "speaker": "Julian C Dunn",
+            "topic": "Configuration Management Workflows",
+            "type": "panel"
+        },
+        {
+            "speaker": "James Turnbull",
+            "topic": "Configuration Management Workflows",
+            "type": "panel"
+        },
+        {
+            "speaker": "Marcus Ranum",
+            "topic": "Untiled Keynote by Marcus Ranum",
+            "type": "keynote"
+        }
+    ],
+    "sponsors": [
+        {
+            "sponsor": "USENIX"
+        },
+        {
+            "sponsor": "Puppet Labs"
+        },
+        {
+            "sponsor": "Fujitsu"
+        },
+        {
+            "sponsor": "Cambridge Computer"
+        },
+        {
+            "sponsor": "Mozilla"
+        }
+    ],
+    "venue": {
+        "name": "Hyatt Regency",
+        "city": "New Brunswick",
+        "state": "NJ",
+        "zip": "08901"
+    }
+}
