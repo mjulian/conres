@@ -1,0 +1,128 @@
+{
+    "conference": {
+        "name": "SysAdmin Days 2006",
+        "start": "2006/11/06",
+        "end": "2006/11/07",
+        "numAttendees": "120"
+    },
+    "presentations": [
+        {
+            "speaker": "Stacy Bowdish",
+            "topic": "Introduction to Telephony and VoIP",
+            "type": "class"
+        },
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Change Management: Why suffer the paperwork?",
+            "type": "class"
+        },
+        {
+            "speaker": "George Toft",
+            "topic": "Compliance For System Administrators",
+            "type": "class"
+        },
+        {
+            "speaker": "Jim Foraker",
+            "topic": "Administering a Mac OS X Environment",
+            "type": "class"
+        },
+        {
+            "speaker": "Esther Filderman",
+            "topic": "Ethics and Professionalism for System Administrators",
+            "type": "class"
+        },
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Disaster Recovery: Will you survive?",
+            "type": "class"
+        },
+        {
+            "speaker": "Bob Plankers",
+            "topic": "Virtualization",
+            "type": "class"
+        },
+        {
+            "speaker": "David Lundell",
+            "topic": "Automate Windows Administration",
+            "type": "class"
+        },
+        {
+            "speaker": "Tom Limoncelli",
+            "topic": "Time Management for System Administrators: Work smarter, get more done",
+            "type": "class"
+        },
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Communication for IT: A broad spectrum analysis",
+            "type": "class"
+        },
+        {
+            "speaker": "Eric Thelin",
+            "topic": "PHP for Sysadmins",
+            "type": "class"
+        },
+        {
+            "speaker": "Mike Halligan",
+            "topic": "Data Centers, Data Closets and Server Hosting",
+            "type": "class"
+        },
+        {
+            "speaker": "Tom Limoncelli",
+            "topic": "Time Management for System Administrators: Work smarter, get more done",
+            "type": "class"
+        },
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Advanced Security: A self-assessment study",
+            "type": "class"
+        },
+        {
+            "speaker": "Trey Harris",
+            "topic": "Get Ready for Perl 6",
+            "type": "class"
+        },
+        {
+            "speaker": "David Parter",
+            "topic": "Developing IT Policies",
+            "type": "class"
+        }
+    ],
+    "sponsors": [
+        {
+            "sponsor": "In the Trenches"
+        },
+        {
+            "sponsor": "PC Chat Show"
+        },
+        {
+            "sponsor": "LOPSA-UZ-AZ"
+        },
+        {
+            "sponsor": "PLUG (Phoenix Linux Users Group)"
+        },
+        {
+            "sponsor": "PhxBSD (Phoenix BSD Users Group)"
+        },
+        {
+            "sponsor": "DeLUG (DeVry Linux Users Group)"
+        },
+        {
+            "sponsor": "SVECC (Sunland Village East Computer Club)"
+        },
+        {
+            "sponsor": "Cisco Learning Institute"
+        },
+        {
+            "sponsor": "Red Seven"
+        },
+        {
+            "sponsor": "Arizona Tech Council"
+        }
+    ],
+    "venue": {
+        "name": "Crowne Plaza Phoenix-North at Metro Center",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85029"
+    }
+}

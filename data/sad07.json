@@ -1,0 +1,113 @@
+{
+    "conference": {
+        "name": "SysAdmin Days 2007",
+        "start": "2007/08/06",
+        "end": "2007/08/07",
+        "numAttendees": "80"
+    },
+    "presentations": [
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Disaster Recovery: Will you survive?",
+            "type": "class"
+        },
+        {
+            "speaker": "Scott Cromar",
+            "topic": "Essentials of Solaris 10 Troubleshooting",
+            "type": "class"
+        },
+        {
+            "speaker": "Tom Limoncelli",
+            "topic": "Time Management for System Administrators: Work smarter, get more done (part I)",
+            "type": "class"
+        },
+        {
+            "speaker": "Trey Harris",
+            "topic": "Get Ready for Perl 6 ",
+            "type": "class"
+        },
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Change Management: Why suffer the paperwork?",
+            "type": "class"
+        },
+        {
+            "speaker": "Jonathan Billings",
+            "topic": "Linux System Administration: Black Magic, Troubleshooting and Performance Tuning",
+            "type": "class"
+        },
+        {
+            "speaker": "Tom Limoncelli",
+            "topic": "Time Management for System Administrators: Work smarter, get more done (part II)",
+            "type": "class"
+        },
+        {
+            "speaker": "Esther Filderman",
+            "topic": "With Great Power Comes Great Responsibility: Ethics & The System Administrator",
+            "type": "class"
+        },
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Advanced Security: A self--assessment study",
+            "type": "class"
+        },
+        {
+            "speaker": "Jim Foraker",
+            "topic": "Administering a Mac OS X Environment",
+            "type": "class"
+        },
+        {
+            "speaker": "Chris St. Pierre",
+            "topic": "Internal Documentation for System Administrators",
+            "type": "class"
+        },
+        {
+            "speaker": "David Parter",
+            "topic": "Developing IT Policies",
+            "type": "class"
+        },
+        {
+            "speaker": "Jesse Trucks",
+            "topic": "Communication for IT: A broad spectrum analysis",
+            "type": "class"
+        },
+        {
+            "speaker": "David Lundell",
+            "topic": "Automate Windows Administration",
+            "type": "class"
+        },
+        {
+            "speaker": "Cat Okita",
+            "topic": "Practical Paranoia",
+            "type": "class"
+        },
+        {
+            "speaker": "Joe Klein",
+            "topic": "Compliance for System Administrators",
+            "type": "class"
+        }
+    ],
+    "sponsors": [
+        {
+            "sponsor": "Linux Pro Magazine"
+        },
+        {
+            "sponsor": "Sun Microsystems"
+        },
+        {
+            "sponsor": "LOPSA-NJ"
+        },
+        {
+            "sponsor": "LiteraryLunch"
+        },
+        {
+            "sponsor": "LUGIP (Linux Users Group in Princeton)"
+        }
+    ],
+    "venue": {
+        "name": "Clarion Hotel Conference Center",
+        "city": "Essington",
+        "state": "PA",
+        "zip": "19029"
+    }
+}

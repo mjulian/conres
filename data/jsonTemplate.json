@@ -1,0 +1,34 @@
+{
+    "conference": {
+        "name": "Conference Name",
+        "start": "YYYY/MM/DD",
+        "end": "YYYY/MM/DD",
+        "numAttendees": "###"
+    },
+    "presentations": [
+        {
+            "speaker": "Speaker Name",
+            "topic": "Presentation Title",
+            "type": "Presentation Type"
+        },
+        {
+            "speaker": "Speaker Name",
+            "topic": "Presentation Title",
+            "type": "Presentation Type"
+        }
+    ],
+    "sponsors": [
+        {
+            "sponsor": "Sponsor Name"
+        },
+        {
+            "sponsor": "Sponsor Name"
+        }
+    ],
+    "venue": {
+        "name": "Venue Name",
+        "city": "City",
+        "state": "XX",
+        "zip": "#####"
+    }
+}
