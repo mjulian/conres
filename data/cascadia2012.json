@@ -1,0 +1,128 @@
+{
+    "conference": {
+        "name": "Cascadia IT Conference 2012",
+        "start": "2012/03/23",
+        "end": "2012/03/24",
+        "numAttendees": "0"
+    },
+    "presentations": [
+        {
+            "speaker": "Don Crawley",
+            "topic": "The Compassionate Geek: Mastering Customer Service for I.T. Professionals",
+            "type": "class"
+        },
+        {
+            "speaker": "Stuart Kendrick",
+            "topic": "Root Cause Analysis",
+            "type": "class"
+        },
+        {
+            "speaker": "Thomas A. Limoncelli",
+            "topic": "The Limoncelli Test: Evaluating and improving sysadmin operations",
+            "type": "class"
+        },
+        {
+            "speaker": "Thomas A. Limoncelli",
+            "topic": "Introduction to Time management for System Administrators",
+            "type": "class"
+        },
+        {
+            "speaker": "Steven Murawski",
+            "topic": "PowerShell Fundamentals",
+            "type": "class"
+        },
+        {
+            "speaker": "Steven Murawski",
+            "topic": "PowerShell Tips and Tricks",
+            "type": "class"
+        },
+        {
+            "speaker": "Mike Pennacchi",
+            "topic": "Deep Packet Inspection using Wireshark",
+            "type": "class"
+        },
+        {
+            "speaker": "Mike Pennacchi",
+            "topic": "Using Open Source Tools to Troubleshoot your Network",
+            "type": "class"
+        },
+        {
+            "speaker": "Leon Towns-von Stauber",
+            "topic": "Centralized Logging",
+            "type": "class"
+        },
+        {
+            "speaker": "Aleksey Tsalolikhin",
+            "topic": "Sysadmin Basics: Power Editing with vi",
+            "type": "class"
+        },
+        {
+            "speaker": "Owen Delong",
+            "topic": "Essential IPv6 for Linux Administrators",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Garrett Honeycutt",
+            "topic": "Advanced topics in Puppet",
+            "type": "presentation"
+        },
+        {
+            "speaker": "David Lang",
+            "topic": "How to make Wireless work in a conference setting",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Thomas A. Limoncelli",
+            "topic": "Ganeti",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Paul Sanford",
+            "topic": "Data, Be Like Water",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Aleksey Tsalolikhin",
+            "topic": "Automating System Administration with CFEngine 3",
+            "type": "presentation"
+        }
+    ],
+    "sponsors": [
+        {
+            "sponsor": "Google"
+        },
+        {
+            "sponsor": "Stoneware"
+        },
+        {
+            "sponsor": "F5 Networks"
+        },
+        {
+            "sponsor": "Nimble Storage"
+        },
+        {
+            "sponsor": "Dell KACE"
+        },
+        {
+            "sponsor": "Splunk"
+        },
+        {
+            "sponsor": "Cambridge Computer"
+        },
+        {
+            "sponsor": "TSS Redmond"
+        },
+        {
+            "sponsor": "Microsoft User Research"
+        },
+        {
+            "sponsor": "AdminArsenal"
+        }
+    ],
+    "venue": {
+        "name": "Hotel Deca",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98105"
+    }
+}

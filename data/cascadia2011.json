@@ -1,0 +1,163 @@
+{
+    "conference": {
+        "name": "Cascadia IT Conference 2011",
+        "start": "2011/03/11",
+        "end": "2011/03/12",
+        "numAttendees": "0"
+    },
+    "presentations": [
+        {
+            "speaker": "Steve VanDevender",
+            "topic": "Email System Design",
+            "type": "class"
+        },
+        {
+            "speaker": "Chris St. Pierre",
+            "topic": "Internal Documentation for System Administrators ",
+            "type": "class"
+        },
+        {
+            "speaker": "Philip Kizer",
+            "topic": "Using and Migrating to IPv6",
+            "type": "class"
+        },
+        {
+            "speaker": "Robert Au",
+            "topic": "Perl Fundamentals",
+            "type": "class"
+        },
+        {
+            "speaker": "Leon Towns-von Stauber",
+            "topic": "Centralized Logging with Syslog-ng and SEC",
+            "type": "class"
+        },
+        {
+            "speaker": "Garrett Honeycutt",
+            "topic": "Introduction to Puppet",
+            "type": "class"
+        },
+        {
+            "speaker": "Robert Au",
+            "topic": "Perl Tips",
+            "type": "class"
+        },
+        {
+            "speaker": "Matt Disney",
+            "topic": "An Introduction to IT Security Concepts",
+            "type": "class"
+        },
+        {
+            "speaker": "Matt Disney",
+            "topic": "Security Best Practices and Tools for Linux",
+            "type": "class"
+        },
+        {
+            "speaker": "Chris St. Pierre",
+            "topic": "Introduction to LDAP",
+            "type": "class"
+        },
+        {
+            "speaker": "Lee Damon",
+            "topic": "System Administration Future",
+            "type": "panel"
+        },
+        {
+            "speaker": "Philip Kizer",
+            "topic": "System Administration Future",
+            "type": "panel"
+        },
+        {
+            "speaker": "Chris St. Pierre",
+            "topic": "System Administration Future",
+            "type": "panel"
+        },
+        {
+            "speaker": "Steve VanDevender",
+            "topic": "System Administration Future",
+            "type": "panel"
+        },
+        {
+            "speaker": "Brent Chapman",
+            "topic": "Incident Command for IT: What We Can Learn from the Fire Department",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Jeff Silverman",
+            "topic": "An Introduction to IPv6",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Robert Au",
+            "topic": "What System Administrators Can Learn About (and From) Software Engineering",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Adam Jacob",
+            "topic": "Chose your own Adventure",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Christian Ian Parades",
+            "topic": "Chef: A Quick Look at Central State Management",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Garrett Honeycutt",
+            "topic": "Configuration Management with Puppet",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Aleksey Tsalolikhin",
+            "topic": "DevOps with Cfengine",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Robert Bernier",
+            "topic": "Recovering From A Damaged PostgreSQL Cluster",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Stuart Kendrick",
+            "topic": "A Few Thoughts on Uptime:  Resisting Entropy",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Skylar Thompson",
+            "topic": "Bootable Cluster CD",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Brian Connolly",
+            "topic": "Deploying your Application to Cloud: Lessons Learned from Five Different Applications",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Philip Kizer",
+            "topic": "Is the Future of the Sysadmin Profession Improving?",
+            "type": "keynote"
+        }
+    ],
+    "sponsors": [
+        {
+            "sponsor": "Google"
+        },
+        {
+            "sponsor": "USENIX"
+        },
+        {
+            "sponsor": "Isilon Systems"
+        },
+        {
+            "sponsor": "GCS IT Solutions"
+        },
+        {
+            "sponsor": "Guidebook"
+        }
+    ],
+    "venue": {
+        "name": "Hotel Deca",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98105"
+    }
+}

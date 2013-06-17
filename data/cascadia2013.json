@@ -1,0 +1,213 @@
+{
+    "conference": {
+        "name": "Cascadia IT Conference 2013",
+        "start": "2013/03/15",
+        "end": "2013/03/16",
+        "numAttendees": "0"
+    },
+    "presentations": [
+        {
+            "speaker": "Stuart Kendrick",
+            "topic": "Root Cause Analysis: Beginner",
+            "type": "class"
+        },
+        {
+            "speaker": "Steven Murawski",
+            "topic": "PowerShell Fundamentals",
+            "type": "class"
+        },
+        {
+            "speaker": "Garrett Honeycutt",
+            "topic": "An Introduction to Puppet",
+            "type": "class"
+        },
+        {
+            "speaker": "Nicole Velasquez",
+            "topic": "Navigating the Business World for Sysadmins: The Trusted Adviser",
+            "type": "class"
+        },
+        {
+            "speaker": "Carolyn Rowland",
+            "topic": "Navigating the Business World for Sysadmins: The Trusted Adviser",
+            "type": "class"
+        },
+        {
+            "speaker": "Don Crawley",
+            "topic": "The Compassionate Geek: Mastering Customer Service for IT Professionals ",
+            "type": "class"
+        },
+        {
+            "speaker": "Stuart Kendrick",
+            "topic": "Over the Edge System Administration",
+            "type": "class"
+        },
+        {
+            "speaker": "David N. Blank- Edelman",
+            "topic": "Over the Edge System Administration",
+            "type": "class"
+        },
+        {
+            "speaker": "Steven Murawski",
+            "topic": "Building Your PowerShell Toolkit",
+            "type": "class"
+        },
+        {
+            "speaker": "Owen DeLong",
+            "topic": "IPv6 - An Introduction",
+            "type": "class"
+        },
+        {
+            "speaker": "Nicole Velasquez",
+            "topic": "Navigating the Business World for Sysadmins: Methods",
+            "type": "class"
+        },
+        {
+            "speaker": "Nicole Velasquez",
+            "topic": "Navigating the Business World for Sysadmins: Methods",
+            "type": "class"
+        },
+        {
+            "speaker": "David N. Blank-Edelman",
+            "topic": "Tales from the Bottom of the Wishing Well, or Why SysAdmins Still Matter",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Owen DeLong",
+            "topic": "Essential IPv6 for the System Administrator",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Ben Kero",
+            "topic": "LXC (Linux Containers) Introduction plus Stupid (and useful!) Tricks",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Ray Pompon",
+            "topic": "Into the Breach - Transitioning into an Infosec Career",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Spencer Krum",
+            "topic": "From zero to root in 12 months: Training and Utilizing Student Administrators in Higher Education",
+            "type": "presentation"
+        },
+        {
+            "speaker": "William Van Hevelingen",
+            "topic": "From zero to root in 12 months: Training and Utilizing Student Administrators in Higher Education",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Bob Beatty",
+            "topic": "To BYOD or not to BYOD?",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Jordan Sissel",
+            "topic": "Loving your logs with logstash",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Scott Whyte",
+            "topic": "An OpenFlow Based Internet Exchange Point",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Adele Shakal",
+            "topic": "Becoming a Gamemaster: Designing IT Emergency Operations and Drills",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Owen DeLong",
+            "topic": "IPv6 Address Planning",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Lance Albertson",
+            "topic": "Hosting FOSS Projects at the OSUOSL",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Nathen Harvey",
+            "topic": "5 Things You Always Wanted to Know About Chef But Were Afraid to Ask",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Leon Towns-von Stauber",
+            "topic": "Truth: On Machine Epistemology and the Importance of Dependencies",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Carolyn Rowland",
+            "topic": "Usenix Women in Advanced Computing Panel",
+            "type": "panel"
+        },
+        {
+            "speaker": "Nicole Velasquez",
+            "topic": "Usenix Women in Advanced Computing Panel",
+            "type": "panel"
+        },
+        {
+            "speaker": "Thomas Van Doren",
+            "topic": "Better Puppet Module Development through Testing",
+            "type": "presentation"
+        },
+        {
+            "speaker": "Ben Kero",
+            "topic": "Firefox OS",
+            "type": "presentation"
+        }
+    ],
+    "sponsors": [
+        {
+            "sponsor": "Jozi Firecracker Factory"
+        },
+        {
+            "sponsor": "Fusion Storm"
+        },
+        {
+            "sponsor": "Strata Core"
+        },
+        {
+            "sponsor": "Cambridge Computer"
+        },
+        {
+            "sponsor": "Puppet Labs"
+        },
+        {
+            "sponsor": "Panasas"
+        },
+        {
+            "sponsor": "Silicon Mechanics"
+        },
+        {
+            "sponsor": "Metacloud"
+        },
+        {
+            "sponsor": "Nexsan"
+        },
+        {
+            "sponsor": "Pogo Linux"
+        },
+        {
+            "sponsor": "Gluster"
+        },
+        {
+            "sponsor": "Coraid"
+        },
+        {
+            "sponsor": "Serverfault"
+        },
+        {
+            "sponsor": "USENIX"
+        },
+        {
+            "sponsor": "LinuxFest Northwest 2013"
+        }
+    ],
+    "venue": {
+        "name": "Hotel Deca",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98105"
+    }
+}
